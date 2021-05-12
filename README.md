@@ -1,5 +1,5 @@
 <h1>Hello guys <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/></h1>
-I'm moving towards developing an app that provides optimal service without marginalized users.
+<h3>I'm moving towards developing an app that provides optimal service without marginalized users.</h3>
 
 <div>
 <p>
