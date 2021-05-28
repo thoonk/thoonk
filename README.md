@@ -6,6 +6,9 @@
   <p align="left">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthoonk&count_bg=%233DC8B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dkrmrm878" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <a href = "https://thoonk.tistory.com" target="_blank">
+      <img alt="Tech" src="https://img.shields.io/badge/-Tech Blog-blueviolet?style=flat" /></a>
+
   </p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=thoonk&show_icons=true&theme=default" />
   <p align="right">
